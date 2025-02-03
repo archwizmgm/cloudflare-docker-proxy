@@ -24,7 +24,7 @@ const routes = {
   "k8s-gcr.849283.xyz": "https://k8s.gcr.io",
   "k8s.849283.xyz": "https://registry.k8s.io",
   "ghcr.849283.xyz": "https://ghcr.io",
-  // "cloudsmith.849283.xyz": "https://docker.cloudsmith.io",
+  "cloudsmith.849283.xyz": "https://docker.cloudsmith.io",
 };
 
 function routeByHosts(host) {
