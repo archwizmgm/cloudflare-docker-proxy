@@ -22,7 +22,7 @@ routes = [
   { pattern = "k8s-gcr.849283.xyz", custom_domain = true },
   { pattern = "k8s.849283.xyz", custom_domain = true },
   { pattern = "ghcr.849283.xyz", custom_domain = true },
-  { pattern = "cloudsmith.849283.xyz", custom_domain = true },
+  // { pattern = "cloudsmith.849283.xyz", custom_domain = true },
 ]
 
 [env.production.vars]
